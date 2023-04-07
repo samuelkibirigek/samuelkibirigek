@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **samuelkibirigek/samuelkibirigek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelkibirigek&repo=top-100-movies-scraping&show_owner=true)](https://github.com/samuelkibirigek/top-100-movies-scraping)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelkibirigek&repo=kibirige-personal-site&show_owner=true)](https://github.com/samuelkibirigek/kibirige-personal-site)
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkibirigek)](https://github.com/samuelkibirigek/github-readme-stats)
