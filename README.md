@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelkibirigek&repo=kibirige-personal-site&show_owner=true)](https://github.com/samuelkibirigek/kibirige-personal-site)
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkibirigek&layout=compact)](https://github.com/samuelkibirigek/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
