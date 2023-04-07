@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Kibirige's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=cobalt)](https://github.com/samuelkibirigek/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelkibirigek&repo=top-100-movies-scraping&show_owner=true)](https://github.com/samuelkibirigek/top-100-movies-scraping)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelkibirigek&repo=kibirige-personal-site&show_owner=true)](https://github.com/samuelkibirigek/kibirige-personal-site)
