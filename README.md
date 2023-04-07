@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- Adding a trophies section to my GitHub profile -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=samuelkibirigek&theme=onedark)](https://github.com/samuelkibirigek/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=samuelkibirigek&theme=onedark&row=2&column=3)](https://github.com/samuelkibirigek/github-profile-trophy)
