@@ -27,7 +27,7 @@ Also I have used my skills to improve existing systems and ensure smooth running
   <br/>
 <!-- Setting up the stats card-->
 🚧 **my GitHub stats:**
-[![Kibirige's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=cobalt)](https://github.com/samuelkibirigek/github-readme-stats)
+[![Kibirige's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=cobalt)]
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=gotham" alt="samuelkibirigek" />
 
