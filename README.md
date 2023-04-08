@@ -30,7 +30,7 @@ Also I have used my skills to improve existing systems and ensure smooth running
   
 <a align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=cobalt" alt="samuelkibirigek GitHub stats" />
   <a/>
-<a align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkibirigek&layout=compact&theme=cobalt&card_width=500px" alt="samuelkibirigek languages" />
+<a align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkibirigek&layout=compact&theme=cobalt&card_width=450px&line_height=35" alt="samuelkibirigek languages" />
   <a/>
 
 <!--
