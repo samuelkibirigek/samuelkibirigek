@@ -27,30 +27,16 @@ Also I have used my skills to improve existing systems and ensure smooth running
   <br/>
 <!-- Setting up the stats card and the languages card-->
 🚧 **my GitHub stats:**
-<br/>
+<br/><br/>
 <a align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=cobalt" alt="samuelkibirigek GitHub stats" />
   <a/>
 <a align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkibirigek&layout=compact&theme=transparent&hide_border=true" alt="samuelkibirigek languages" />
   <a/>
-
-
-<!--
-** These two sample endpoints demo how one can have more than the 6 default repository pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelkibirigek&repo=top-100-movies-scraping&show_owner=true)](https://github.com/samuelkibirigek/top-100-movies-scraping)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelkibirigek&repo=kibirige-personal-site&show_owner=true)](https://github.com/samuelkibirigek/kibirige-personal-site)
--->
-
-<!-- 
-** Demo code for aligning repo cards side by side if displayed on dashboard through the readme file
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
--->
+<br/>
 
 <!-- Adding a trophies section to my GitHub profile -->
+🏆 **Checkout my Trophy Cabinet**
+<br/><br/>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=samuelkibirigek&theme=gruvbox&row=2&column=3)" alt="samuelkibirigek trophies">
   
   
