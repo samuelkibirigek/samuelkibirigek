@@ -1,4 +1,4 @@
-<p align-center/> ### 😎Hey, glad to see you!
+<center> ### 😎Hey, glad to see you! </center>
 <br/>
 
 <a href="https://instagram.com/samuelkibirige?igshid=ZDdkNTZiNTM=">
