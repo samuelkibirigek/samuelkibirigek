@@ -11,9 +11,9 @@
 <a href="https://www.linkedin.com/in/kalule-samuel-kibirige/">
   <img align="left" alt="Sameul Kibirige's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-  ![](https://visitor-badge.glitch.me/badge?page_id=samuelkibirigek.samuelkibirigek)
+ 
 
-<br/>
+<br/><br/>
 
 <!--
 **samuelkibirigek/samuelkibirigek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
