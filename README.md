@@ -27,12 +27,11 @@ Also I have used my skills to improve existing systems and ensure smooth running
   <br/>
 <!-- Setting up the stats card and the languages card-->
 🚧 **my GitHub stats:**
-<center>
 <a align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=cobalt" alt="samuelkibirigek GitHub stats" />
   <a/>
-<a align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkibirigek&layout=compact&theme=cobalt&card_width=450px&line_height=35px" alt="samuelkibirigek languages" />
+<a align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkibirigek&layout=default&theme=cobalt&card_width=400px&line_height=35px" alt="samuelkibirigek languages" />
   <a/>
-<center/>
+
 
 <!--
 ** These two sample endpoints demo how one can have more than the 6 default repository pins
