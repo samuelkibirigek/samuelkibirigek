@@ -25,20 +25,19 @@ Also I have used my skills to improve existing systems and ensure smooth running
 - ⚡ I love psychology and fictious literature so hit me up with your best read and I will return the favor.
 
   <br/>
-<!-- Setting up the stats card-->
+<!-- Setting up the stats card and the languages card-->
 🚧 **my GitHub stats:**
-[![Kibirige's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=cobalt)]
   
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=gotham" alt="samuelkibirigek" />
+<a align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=gotham" alt="samuelkibirigek GitHub stats" />
+  <a/>
+<a align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkibirigek&layout=compact" alt="samuelkibirigek languages" />
+  <a/>
 
 <!--
 ** These two sample endpoints demo how one can have more than the 6 default repository pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelkibirigek&repo=top-100-movies-scraping&show_owner=true)](https://github.com/samuelkibirigek/top-100-movies-scraping)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelkibirigek&repo=kibirige-personal-site&show_owner=true)](https://github.com/samuelkibirigek/kibirige-personal-site)
 -->
-
-<!-- Setting up the languages card-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkibirigek&layout=compact)](https://github.com/samuelkibirigek/github-readme-stats)
 
 <!-- 
 ** Demo code for aligning repo cards side by side if displayed on dashboard through the readme file
@@ -51,4 +50,7 @@ Also I have used my skills to improve existing systems and ensure smooth running
 -->
 
 <!-- Adding a trophies section to my GitHub profile -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=samuelkibirigek&theme=gruvbox&row=2&column=3)](https://github.com/samuelkibirigek/github-profile-trophy)
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=samuelkibirigek&theme=gruvbox&row=2&column=3)" alt="samuelkibirigek trophies">
+  
+  
+  
