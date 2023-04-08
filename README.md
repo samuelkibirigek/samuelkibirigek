@@ -37,7 +37,7 @@ Also I have used my skills to improve existing systems and ensure smooth running
 <!-- Adding a trophies section to my GitHub profile -->
 🏆 **Checkout my Trophy Cabinet**
 <br/>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=samuelkibirigek&theme=gruvbox&row=1)" alt="samuelkibirigek trophies">
+<a align="center"> <img src="https://github-profile-trophy.vercel.app/?username=samuelkibirigek&theme=gruvbox&row=1)" alt="samuelkibirigek trophies"> <a/>
   
   
   
