@@ -8,7 +8,7 @@
 <a href="https://twitter.com/samuelkibirige">
   <img align="left" alt="Kibirige Samuel K | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/samuelkibirigek/">
+<a href="https://www.linkedin.com/in/kalule-samuel-kibirige/">
   <img align="left" alt="Sameul Kibirige's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
