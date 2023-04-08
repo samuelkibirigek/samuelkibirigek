@@ -11,9 +11,12 @@
 <a href="https://www.linkedin.com/in/kalule-samuel-kibirige/">
   <img align="left" alt="Sameul Kibirige's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
- 
 
 <br/><br/>
+  
+ hi, i'm [Samuel], a passionate full stack web developer, data enthusiast and a freelance software engineer from Uganda. My undertakings software development and application of skills is primarily aimed at problem solving, self improvement and value creation. I take time to learn, unlearn and hatch out impactful ideas, implement them and ensure a good user experience. 
+
+Also I have used my skills to improve existing systems and ensure smooth running of software. My goal is to grow my knowledge and improve my skills every passing day.
 
 <!--
 **samuelkibirigek/samuelkibirigek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +32,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👯 I’m looking to collaborate on projects involving data analytics, python, data visualization and web development.
+- 💬 Ask me about Data science, web scraping, python scripting, game development, web design, Automation, web development and anything tech.
+- 📫 You can reach me on my socials provided at the top.
+- ⚡ I love psychology and fictious literature so hit me up with your best read and I will return the favor.
 
 <!-- Setting up the stats card-->
 [![Kibirige's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=cobalt)](https://github.com/samuelkibirigek/github-readme-stats)
