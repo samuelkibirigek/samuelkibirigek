@@ -39,7 +39,7 @@ Also I have used my skills to improve existing systems and ensure smooth running
 <br/>
 <a align="center"> <img src="https://github-profile-trophy.vercel.app/?username=samuelkibirigek&theme=gruvbox&row=1" alt="samuelkibirigek trophies"> 
   <a/>
-  
+<br/>
 <!--Setting up the streak stats--> 
 🔥 **GitHub Streak Stats**
   <br/>
