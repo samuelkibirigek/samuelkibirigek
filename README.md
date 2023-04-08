@@ -39,5 +39,6 @@ Also I have used my skills to improve existing systems and ensure smooth running
 <br/>
 <a align="center"> <img src="https://github-profile-trophy.vercel.app/?username=samuelkibirigek&theme=gruvbox&row=1)" alt="samuelkibirigek trophies"> <a/>
   
-  
+<!--Setting up the streak stats-->  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuelkibirigek&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
   
