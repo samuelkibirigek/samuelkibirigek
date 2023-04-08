@@ -1,6 +1,6 @@
 ### 😎Hey, glad to see you!
 
-<a href="https://www.instagram.com/samuelkibirige/">
+<a href="[https://instagram.com/samuelkibirige?igshid=ZDdkNTZiNTM=/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 <a href="https://discord.gg/samuel kk#3786">
   <img align="left" alt="Kibirige's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -11,6 +11,8 @@
 <a href="https://www.linkedin.com/in/kalule-samuel-kibirige/">
   <img align="left" alt="Sameul Kibirige's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+<br/>
 
 <!--
 **samuelkibirigek/samuelkibirigek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
