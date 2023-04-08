@@ -13,8 +13,8 @@
 <a href="https://www.linkedin.com/in/kalule-samuel-kibirige/">
   <img align="left" alt="Sameul Kibirige's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 <a/> 
-<a href="https://komarev.com/ghpvc/?username=your-github-username">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username"/>
+<a href="https://komarev.com/ghpvc/?username=samuelkibirigek">
+  <img src="https://komarev.com/ghpvc/?username=samuelkibirigek"/>
 <a/>
 
 <br/><br/>
