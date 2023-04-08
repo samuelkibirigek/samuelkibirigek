@@ -1,4 +1,5 @@
 ### 😎Hey, glad to see you!
+<br/>
 
 <a href="https://instagram.com/samuelkibirige?igshid=ZDdkNTZiNTM=">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -18,27 +19,17 @@
 
 Also I have used my skills to improve existing systems and ensure smooth running of software. My goal is to grow my knowledge and improve my skills every passing day.
 
-<!--
-**samuelkibirigek/samuelkibirigek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - 👯 I’m looking to collaborate on projects involving teaching and learning software engineering, data analytics, data visualization and web development.
 - 💬 Ask me about Data science, web scraping, python scripting, game development, web design, Automation, web development and anything tech.
 - 📫 You can reach me on my socials provided at the top.
 - ⚡ I love psychology and fictious literature so hit me up with your best read and I will return the favor.
 
+  <br/>
 <!-- Setting up the stats card-->
+🚧 **my GitHub stats:**
 [![Kibirige's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=cobalt)](https://github.com/samuelkibirigek/github-readme-stats)
+  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=gotham" alt="samuelkibirigek" />
 
 <!--
 ** These two sample endpoints demo how one can have more than the 6 default repository pins
