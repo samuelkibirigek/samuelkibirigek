@@ -15,7 +15,7 @@
 
 <br/><br/>
   
- hi, i'm [Samuel](https://#), a passionate full stack web developer, data enthusiast and a freelance software engineer from Uganda. My undertakings software development and application of skills is primarily aimed at problem solving, self improvement and value creation. I take time to learn, unlearn and hatch out impactful ideas, implement them and ensure a good user experience. 
+ hi, i'm [Samuel](https://#), a passionate full stack web developer, data enthusiast and a freelance software engineer from Uganda. My undertakings in software development and application of skills is primarily aimed at problem solving, self improvement and value creation. I take time to learn, unlearn and hatch out impactful ideas, implement them and ensure a good user experience. 
 
 Also I have used my skills to improve existing systems and ensure smooth running of software. My goal is to grow my knowledge and improve my skills every passing day.
 
