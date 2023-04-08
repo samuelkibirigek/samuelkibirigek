@@ -1,4 +1,4 @@
-<center> ### 😎Hey, glad to see you! </center>
+### 😎Hey, glad to see you! 
 <br/>
 
 <a href="https://instagram.com/samuelkibirige?igshid=ZDdkNTZiNTM=">
@@ -28,9 +28,9 @@ Also I have used my skills to improve existing systems and ensure smooth running
 <!-- Setting up the stats card and the languages card-->
 🚧 **my GitHub stats:**
   
-<a align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=gotham" alt="samuelkibirigek GitHub stats" />
+<a align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samuelkibirigek&show_icons=true&theme=cobalt" alt="samuelkibirigek GitHub stats" />
   <a/>
-<a align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkibirigek&layout=compact" alt="samuelkibirigek languages" />
+<a align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkibirigek&layout=compact&theme=cobalt" alt="samuelkibirigek languages" />
   <a/>
 
 <!--
