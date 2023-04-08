@@ -42,6 +42,6 @@ Also I have used my skills to improve existing systems and ensure smooth running
   
 <!--Setting up the streak stats--> 
 🔥 **GitHub Streak Stats**
-[![GitHub Streak]()](https://git.io/streak-stats)
+  <br/>
 <a align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=samuelkibirigek&theme=cobalt&hide_border=true" alt="samuelkibirgek streak stats">
   <a/>
