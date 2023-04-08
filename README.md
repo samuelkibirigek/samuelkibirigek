@@ -32,11 +32,11 @@ Also I have used my skills to improve existing systems and ensure smooth running
   <a/>
 <a align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkibirigek&layout=compact&theme=transparent&hide_border=true" alt="samuelkibirigek languages" />
   <a/>
-<br/>
+<br/><br/>
 
 <!-- Adding a trophies section to my GitHub profile -->
 🏆 **Checkout my Trophy Cabinet**
-<br/><br/>
+<br/>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=samuelkibirigek&theme=gruvbox&row=2&column=3)" alt="samuelkibirigek trophies">
   
   
