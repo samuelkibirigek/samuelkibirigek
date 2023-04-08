@@ -1,6 +1,6 @@
 ### 😎Hey, glad to see you!
 
-<a href="https://instagram.com/samuelkibirige?igshid=ZDdkNTZiNTM=/">
+<a href="https://instagram.com/samuelkibirige/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 <a href="https://discord.gg/samuel kk#3786">
   <img align="left" alt="Kibirige's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
